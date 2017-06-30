@@ -1,0 +1,13 @@
+{
+  "name": "HelloWorld",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-packager": "^8.7.2"
+  },
+  "scripts":{
+    "test": "start",
+    "start": "electron .",
+    "packager": ""
+  }
+}
